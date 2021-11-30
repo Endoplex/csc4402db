@@ -1,6 +1,9 @@
 # CSC 4402 Introduction to Database Management System Project
 This project is built in MySQL Workbench.
 
+The design report is listed as Team2_Design.pdf
+The powerpoint is also included as pdf
+
 To run the db and run our sql queries we used sqlite. To run the db make sure all teh sqlite exe files are in a directory with our 5 csv files(clubs, students, players, sports, and teachers).
 
 run sqlite3 after you cd to the directory
